@@ -117,7 +117,7 @@
      bordercolor="#666666"
      borderopacity="1.0"
      showgrid="false"
-  >
+  />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -237,7 +237,7 @@
      transform="translate(0,-87)"
      style="display:inline"
      id="g6024"
-   />
+   >
     <g
        id="g6000"
        transform="matrix(0.33566843,0,0,-0.33566843,93.833153,320.85739)"
